@@ -1,0 +1,49 @@
+Why I chose the tools, libraries, and language used for the coding exercise:
+
+    For the REST API example, I chose Python and Flask because Python made the 
+    backend logic easier to implement, and I have the most experience using these 
+    tools. Python is easy to learn, widely used, and has extensive libraries for 
+    API development. Flask is a great framework when used with python, and offers 
+    simplicity and flexibility, which allowed me to structure the project 
+    according to my needs without unnecessary complexity. Together, Flask and 
+    Python worked great for my API development, and they made debugging my 
+    solution much easier and faster.
+
+Advantages and Disadvantages of the Solution:
+
+    The solution has several advantages and disadvantages. One key advantage is 
+    its simplicity; Flask is minimal and quick to set up, making it ideal for 
+    fast development. Additionally, the flexibility it offers allowed me to 
+    choose which libraries or extensions to include, letting me tailor my solution 
+    and easily run test cases to debug my codeThe API can efficiently handle 
+    multiple "add," "spend," and "balance" requests, effectively managing edge 
+    cases, such as when a company’s balance is negative or when incorrect input 
+    formats are provided. It also utilizes global variables to store data 
+    permanently and update current balances efficiently. However, there are some 
+    disadvantages to consider. The API may become inefficient when handling a 
+    large number of requests, potentially requiring modifications to manage high 
+    loads. Furthermore, Flask lacks built-in features like authentication, which 
+    means these must be implemented manually if more users are to be added as an
+    additional feature.
+
+What has been a favorite school/personal project thus far? What about it that 
+challenged you?
+
+    One of my favorite projects has been "IceBreak," which I co-created with a 
+    team of 4 other computer engineering students during the Purdue Catapult AI 
+    Hackathon. The idea behind "IceBreak" was to develop an app that matched event 
+    attendees based on their personality types and interests, aiming to facilitate 
+    more meaningful connections. We managed the back-end with Flask, implemented 
+    the stable-marriage algorithm in Python to ensure optimal matches, and used 
+    the OpenAI API to generate engaging conversation starters. This project also 
+    involved integrating the front-end with CSS and HTML, making it a full-stack 
+    effort. What really challenged me was the complexity of combining various 
+    technologies and ensuring smooth collaboration. We used GitHub and VS Code Live 
+    Share for real-time coding, which was a first for me. Implementing the 
+    stable-marriage algorithm was particularly demanding, as it required a deep 
+    understanding of both the algorithm and its practical application. Additionally, 
+    making sure our front-end was user-friendly while seamlessly integrating the 
+    back-end was no small feat. Combining this with our 24 hour time limit from 
+    start to finish truly pushed us to think creatively, technically, and most 
+    importantly efficiently. This project pushed me to learn quickly and adapt, and 
+    it was incredibly rewarding to see it come together successfully.
